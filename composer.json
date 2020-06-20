@@ -1,5 +1,7 @@
 {
     "name": "shy/swostar",
+    "description": "基于swoole封装的服务器组件",
+    "license": "MIT",
     "authors": [
         {
             "name": "xiaobei",
